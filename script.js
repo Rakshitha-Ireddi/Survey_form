@@ -1,3 +1,4 @@
+// By Rakshitha Ireddi
 let currentPage = 1;
 
 function showPage(pageNumber) {
